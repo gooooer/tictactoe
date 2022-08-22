@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{3C15E31F-3DA9-482D-B0B3-5E3790EE8D3F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GameServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameServer/SingleRoomManager.cs">
+    <Files>
+      <File FileName="GameServer/Program.cs" Line="20" Column="23" />
+      <File FileName="GameServer/SingleRoomManager.cs" Line="117" Column="1" />
+      <File FileName="TicTacToeGameLib/Game/Player.cs" Line="7" Column="24" />
+      <File FileName="TicTacToeGameLib/Game/Game.cs" Line="90" Column="6" />
+      <File FileName="TicTacToeGameLib/Protocol/CommandPacket.cs" Line="29" Column="44" />
+      <File FileName="TicTacToeGameLib/Protocol/ResultPacket.cs" Line="13" Column="26" />
+      <File FileName="TicTacToeGameLib/Game/Turn.cs" Line="34" Column="24" />
+      <File FileName="GameServer/CommandPacketHandler.cs" Line="44" Column="1" />
+      <File FileName="GameServer/Utilities.cs" Line="9" Column="6" />
+      <File FileName="GameServer/appsettings.json" Line="16" Column="2" />
+      <File FileName="TicTacToeLibTest/UnitTest1.cs" Line="29" Column="1" />
+      <File FileName="TicTacToeLibTest/Usings.cs" Line="1" Column="1" />
+      <File FileName="TicTacToeLibTest/TurnTest.cs" Line="23" Column="51" />
+      <File FileName="GameServer/User.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicTacToe" expanded="True" selected="True">
+            <Node name="GameServer" expanded="True" />
+            <Node name="TicTacToeLib" expanded="True">
+              <Node name="Game" expanded="True" />
+              <Node name="Protocol" expanded="True" />
+            </Node>
+            <Node name="TicTacToeLibTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TicTacToe" expanded="True">
+            <Node name="TicTacToeLibTest" expanded="True">
+              <Node name="TicTacToeLibTest" expanded="True">
+                <Node name="GameTest" expanded="True" />
+                <Node name="TurnTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

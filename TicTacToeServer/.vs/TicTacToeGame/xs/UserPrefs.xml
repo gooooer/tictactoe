@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToeGameLib/Game.cs">
+    <Files>
+      <File FileName="TicTacToeGameLib/Class1.cs" Line="36" Column="31" />
+      <File FileName="TicTacToeGameLib/EmptyClass.cs" Line="25" Column="16" />
+      <File FileName="TicTacToeGameLib/Player.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicTacToeGame" expanded="True" selected="True">
+            <Node name="TicTacToeGameLib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
